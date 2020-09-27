@@ -1,0 +1,11 @@
+ git clone "path" ----> .git/config git pull path
+ 
+ git init (to create .git repo in local)
+ 
+ git remote add aliasname path  (pointing to path)
+ 
+ git fetch aliasname  (it will clone the repo from path)
+ 
+ usage : git pull aliasname...git push alianame
+ 
+ #####################################################################
